@@ -1,0 +1,15 @@
+C:\Users\JAnto\source\repos\Practicas\bin\Debug\net6.0\Practicas.exe
+C:\Users\JAnto\source\repos\Practicas\bin\Debug\net6.0\Practicas.deps.json
+C:\Users\JAnto\source\repos\Practicas\bin\Debug\net6.0\Practicas.runtimeconfig.json
+C:\Users\JAnto\source\repos\Practicas\bin\Debug\net6.0\Practicas.dll
+C:\Users\JAnto\source\repos\Practicas\bin\Debug\net6.0\Practicas.pdb
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\Practicas.csproj.AssemblyReference.cache
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\Practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\Practicas.AssemblyInfoInputs.cache
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\Practicas.AssemblyInfo.cs
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\Practicas.csproj.CoreCompileInputs.cache
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\Practicas.dll
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\refint\Practicas.dll
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\Practicas.pdb
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\Practicas.genruntimeconfig.cache
+C:\Users\JAnto\source\repos\Practicas\obj\Debug\net6.0\ref\Practicas.dll
